@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  #video-container {
+    position: relative;
+    margin-top: 50px;
+  }
+  
+  video,
+  canvas {
+    border: 2px solid #ccc;
+  }
+  
+  input {
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  #login-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
